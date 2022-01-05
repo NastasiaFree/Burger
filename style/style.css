@@ -120,11 +120,11 @@ ul {
 }
 
 .discount {
-    background-image: url("../burger/img/discont.png");    
+    background-image: url("../img/discont.png");    
 }
 
 .free {
-    background-image: url("../burger/img/free.png");
+    background-image: url("../img/free.png");
 }
 
 .sale {
